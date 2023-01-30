@@ -1,0 +1,22 @@
+body{
+    background-color: bisque;
+    border: 2px;
+}
+p{
+    background-color:rgb(220, 154, 104);
+    border: 5px solid rgb(3, 45, 28);
+    padding: 10px;
+    margin: 5px;
+    font-weight: bold;
+}
+div {
+    background-color: darkgoldenrod;
+    border: 5px solid rgb(162, 179, 178);
+    padding: 10px;
+    margin: 5px;
+    font-weight: bold;
+    font-style: italic;
+}
+button{
+    margin: 5px;
+}
